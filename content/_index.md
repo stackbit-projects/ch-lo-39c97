@@ -6,9 +6,8 @@ sections:
     template: section_hero
     title: 'Hi, I''m CH'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      All the info for Chs 
   - type: section_content
     template: section_content
     title: About
