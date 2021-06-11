@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Carer Hero",
+        "title": "CH",
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
