@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hi, I''m CH'
+    title: 'Hi, I''m CHro'
     section_id: hero
     content: |
       All the info for Chs 
